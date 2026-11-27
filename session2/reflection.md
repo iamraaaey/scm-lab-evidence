@@ -2,7 +2,7 @@
 
 ## Q1. How do Issues and pull requests together support change control?
 
-Issue #1 recorded why the change was needed and what "done" meant, through its context and two acceptance criteria. Pull request #2 carried the actual change from the branch issue-1-traceability-template and gave a place to review it before it reached main. Writing "Closes #1" in the pull request description linked the two, so GitHub closed the issue automatically when the pull request was merged. Anyone reading the history later can follow the chain from the reason (#1) to the reviewed change (#2) to the merge commit 0ed7a36.
+Issue #1 recorded why the change was needed and what "done" meant, through its context and two acceptance criteria. Pull request #2 carried the actual change from the branch issue-1-traceability-template and gave a place to review it before it reached main. Writing "Closes #1" in the pull request description linked the two, so GitHub closed the issue automatically when the pull request was merged. Anyone reading the history later can follow the chain from the reason (#1) to the reviewed change (#2) to the merge commit eaa7ae9.
 
 ## Q2. Why did the conflict in Part 4 happen, and how could a team reduce such conflicts?
 
