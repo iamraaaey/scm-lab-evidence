@@ -1,0 +1,3 @@
+# Code review versus formal configuration audit
+
+A code review is a peer check of one proposed change before it is merged, done continuously as part of everyday work. In pull request #2 I reviewed the traceability note template on the Files changed tab, left a Comment suggesting that the merge date be recorded, and only then merged it into main. A formal configuration audit is different: it is a planned, independent verification of the whole product at a milestone such as a release or baseline, where the Functional Configuration Audit (FCA) checks that the product does what its requirements specify and the Physical Configuration Audit (PCA) checks that what was built matches its documentation.
